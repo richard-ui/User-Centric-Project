@@ -2,16 +2,16 @@
  
 
 /*  --- Colors ---- */
-.bg-color-name-title{
-    background-color: 	rgb(66, 103, 178);
+nav li a{
+    color: #fff;
 }
 ul li{    
     color: 	#fff;
 }
-
-.bg-color-three-reasons{
-    background-color: #fff;
+.content-section{
+    padding-top: 20px;
 }
+
 /*  --- Special padding/margins/text --- */
 
 h5{
@@ -26,27 +26,9 @@ h5{
     display: inline-block;
 }
 
-.row-table{
-    display: table;
-}
-.section-column{
-    display: table-cell;
-    padding: 0 30px 30px;
-    float: none;
-}
-.section-heading{
-    font-family: "Epilogue", sans-serif; 
-    margin-top: 25;
-    margin-bottom: 40px;
-}
-
 /*  --- Heading --- */
 header{
     margin: 0;
-}
-
-.heading{
-    margin-left: 50px;
 }
 
 .logo{
@@ -85,46 +67,13 @@ header{
 .menucontainer{
     font-size: 0;
 }
-#nav li {
-    font-size:14px;
-    padding:0;
-}
-
-
-
-.menuitem{
-    height:120px;
-    text-align: center;
-    padding:0;
-}
-.menuitem a{
-    width:100%;
-    text-decoration: none;
-    color: #fff;
-    height: 120px;
-}
-.menuitem a i{
-    padding-top: 22px;
-    display: block;
-    color: #fff;
-    font-size:26px;
-}
-.menuitem span{
-    display: block;
-    width: 100%;
-    padding-top: 5px;
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 14px;
-    font-weight: 300;
-    letter-spacing: 2px;
-}
 
 
 /*  --- hover.css ---- */
+
 .hvr-outline-out:before{
-background: #4267b2;
-height:120px;
+background-color: #fff;
+
 }
 
 
@@ -186,5 +135,40 @@ footer {
 }
 
 #footer-details {
-    padding: 20px;
+    padding: 22px;
+}
+.timeline-item {
+    padding: 4em 2em 0em 2em; /* top, right, bottom, left */
+    position: relative;
+    border-left: 1px solid;
+}
+.timeline-item p {
+    margin: 0px;
+    padding: 0px;
+}
+.timeline-item:before {
+    content: attr(data-dates);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: block;
+    font-family: "Epilogue", sans-serif;
+    font-weight: 500;
+    font-size: 0.8em;
+    margin: 0px;
+    padding: 0px;
+}
+.timeline-item:after {
+    width:12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: '';
+    background: #000;
+}
+#history-items{
+    margin-bottom: 20px;
 }
