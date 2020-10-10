@@ -1,12 +1,9 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome richard-ui,
+Brief Introduction to the Project
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
-
-## Gitpod Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This project is a development from Richard Jones and the purpose of this
+website is to broadcast my skills , information and work history to potential employers and recruiters.
+The wesbite includes Information about me and why i would be suitable in becoming a Full Stack Web Developer.
 
 `python3 -m http.server`
 
