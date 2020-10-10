@@ -10,15 +10,40 @@
 .contact-text{
     padding-bottom: 10px;
 }
+/*  --- Personal Info  --- */
+.personal-info-item {
+   margin-bottom: 20px;
+   display: block;
+   clear: both;
+}
+.personal-info-item .key,
+.personal-info-item .value{
+    padding-right: 8px;
+    display: inline-block;
+}
+.personal-info-item .key p,
+.personal-info-item .value p{
+    margin: 0;
+}
+.personal-info-item .key{
+    width: 30%;
+    margin-right: 21px;
+    padding-top: 2px;
+    vertical-align: top;
+    font-weight: 500;
+}
+.personal-info-item .value{
+  position: relative;
+  width: 60%;
+}
+
+
+
 
 h5{
     margin:0;
 }
 
-.general-sub{
-    font-family: "Epilogue", sans-serif;
-    color: #fff;
-}
 .inline-block{
     display: inline-block;
 }
@@ -124,6 +149,11 @@ footer {
 #footer-details {
     padding: 30px;
     margin-top: 20px;
+}
+
+.general-sub{
+    font-family: "Epilogue", sans-serif;
+    color: #fff;
 }
 
 
