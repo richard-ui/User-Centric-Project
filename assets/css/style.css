@@ -1,14 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
- 
-
-
-/*  --- Special padding/margins/text --- */
 
 .content-section{
     padding-top: 20px;
-}
-.contact-text{
-    padding-bottom: 10px;
 }
 /*  --- Personal Info  --- */
 .personal-info-item {
@@ -18,7 +11,7 @@
 }
 .personal-info-item .key,
 .personal-info-item .value{
-    padding-right: 8px;
+    padding-right: 5px;
     display: inline-block;
 }
 .personal-info-item .key p,
@@ -37,25 +30,16 @@
   width: 60%;
 }
 
-
-
-
-h5{
-    margin:0;
-}
-
-.inline-block{
-    display: inline-block;
-}
-
 /*  --- Navigation --- */
 header{
     margin: 0;
 }
- .custom-toggler.navbar-toggler { 
+.custom-toggler.navbar-toggler { 
     border-color: lightgreen; 
-    } 
-/* Setting the stroke to green using rgb values (0, 128, 0) */        
+}
+
+/* Setting the stroke to green using rgb values (255, 255, 255) */
+
 .custom-toggler .navbar-toggler-icon { 
     background-image: url( 
         "data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.8)' stroke-width='4' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); 
@@ -103,7 +87,7 @@ footer {
     padding: 12px 0;
     border-radius: 50%;
     font-size: 18px;
-    line-height: 7px;
+    line-height: 8px;
     text-align: center;
     color: #fafafa;
     background: #4267b2;
@@ -148,12 +132,14 @@ footer {
 
 #footer-details {
     padding: 30px;
-    margin-top: 20px;
+    margin-top: 70px;
 }
-
 .general-sub{
     font-family: "Epilogue", sans-serif;
     color: #fff;
+}
+.inline-block{
+    display: inline-block;
 }
 
 
@@ -194,7 +180,10 @@ footer {
 #history-items{
     margin-bottom: 20px;
 }
-
+/* iframe video */
+iframe{
+border: 0px;
+}
 /* form */
 
 .center-form{
@@ -205,6 +194,12 @@ footer {
 input[type="submit"]{
     margin: 15px 0px 40px 0px;
 
+}
+.contact-text{
+    padding-bottom: 10px;
+}
+.col-form-label{
+   font-weight: 500;
 }
 
 /* Media Queries */
