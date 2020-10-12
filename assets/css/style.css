@@ -72,6 +72,68 @@ ul li a{
     color: 	#fff;
 }
 
+
+/* timeline */
+
+.timeline-item {
+    padding: 4em 2em 0em 2em; /* top, right, bottom, left */
+    position: relative;
+    border-left: 1px solid;
+}
+.timeline-item p {
+    margin: 0px;
+    padding: 0px;
+}
+.timeline-item:before {
+    content: attr(data-dates);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: block;
+    font-family: "Epilogue", sans-serif;
+    font-weight: 500;
+    font-size: 0.8em;
+    margin: 0px;
+    padding: 0px;
+}
+.timeline-item:after {
+    width:12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: '';
+    background: #000;
+}
+#history-items{
+    margin-bottom: 20px;
+}
+/* iframe video */
+
+iframe{
+    border: 0px;
+}
+
+/* form */
+
+.center-form{
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+input[type="submit"]{
+    margin: 15px 0px 40px 0px;
+
+}
+.contact-text{
+    padding-bottom: 10px;
+}
+.col-form-label{
+   font-weight: 500;
+}
+
 /*  --- Footer --- */
 
 footer {
@@ -143,64 +205,6 @@ footer {
 }
 
 
-/* timeline */
-
-.timeline-item {
-    padding: 4em 2em 0em 2em; /* top, right, bottom, left */
-    position: relative;
-    border-left: 1px solid;
-}
-.timeline-item p {
-    margin: 0px;
-    padding: 0px;
-}
-.timeline-item:before {
-    content: attr(data-dates);
-    position: absolute;
-    left: 2.5em;
-    top: 3em;
-    display: block;
-    font-family: "Epilogue", sans-serif;
-    font-weight: 500;
-    font-size: 0.8em;
-    margin: 0px;
-    padding: 0px;
-}
-.timeline-item:after {
-    width:12px;
-    height: 12px;
-    display: block;
-    top: 2.4em;
-    position: absolute;
-    left: -6px;
-    border-radius: 12px;
-    content: '';
-    background: #000;
-}
-#history-items{
-    margin-bottom: 20px;
-}
-/* iframe video */
-iframe{
-border: 0px;
-}
-/* form */
-
-.center-form{
-    padding-top: 10px;
-    margin: 0 auto;
-    max-width: 70%;
-}
-input[type="submit"]{
-    margin: 15px 0px 40px 0px;
-
-}
-.contact-text{
-    padding-bottom: 10px;
-}
-.col-form-label{
-   font-weight: 500;
-}
 
 /* Media Queries */
 
