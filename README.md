@@ -12,7 +12,6 @@ User Stories
 
 - As a first time user I want to be able to navigate the site in an easy and efficient way without any complex design.
 
-
 - As a Recruiter I want to be able to use an array of socials as a way of understanding how trusted and known the individual is.
   I also want to know that I can use another form of communication with them if there are any job updates that match there skills.
 
@@ -93,19 +92,29 @@ First Time Visitor Goals
   i. The main points are made immediately with the image and the 'About me' header which is nicely centered and bold.
      The user now knows the site is about the developer, and gets a nice warm feeling like there smiling back at them to encourage them to read more information on the page.
 
-- As a first time user I want to be able to navigate the site in an easy and effient way without any complex design.
+- As a Fsirst time user I want to be able to navigate the site in an easy and effient way without any complex design.
   i. The overall design has been made to be fluid with a navigation bar with clear defined links to each page.
   i. On the Contact Page when the form has been submitted the page will refresh and take the user back to the top of the page.
 
-- As a first time user I want to be able to read information about the individual in a clear and concise way, with appropriate font and paragraphs
-  formatted in a consistent way on the page.
-
 Recruiter/Employer Goals
-     
+- As a Recruiter/Employer I want to be able to use an array of socials as a way of understanding how trusted and known the individual is.
+  I also want to know that I can use another form of communication with them if there are any job updates that match there skills.
+  i. The Social Icons are located in the footer and are consistent through the site. The user has a range of socials to interact
+     with including the 5 main socials, Instagram, LinkedIn, Facebook, Twitter and Pinterest.
+  i. A hover effect triggers to indicate that they are about to click it. Clicking on any 5 of the icons will launch there Url.
+  i. This will open in a new browser so that the user can navigate back to the website easily.
 
+- As a Recruiter/Employer I would want to be able to see the developers CV and have a way of downloading it to my computer so I can keep on file.
+  i. The user has 2 options providing a link to the developers cv, giving them more flexibility to make their choice.
+  i. An icon from the top right navbar and an icon on the footer. These icons provide links that when clicked, then the developers CV would
+     appear in the browser.
+  i. This CV is made in pdf format and ready for the user to download to their computer.
 
-
-
+- As a Recruiter/Employer I want to be able to contact the developer if I am interested in the individuals work and skill set.
+  i. To enter the conact page the user would need to click the 'Contact' link in the navbar
+  i. When entered, they will use the form on the contact page and enter place their name, email and current message into the 3 input boxes.
+  i. When Submit button is pressed the, validation will check for empty fields and the correct input type and alert user if valid.
+  i. Alternatively, to get in contact, the recruiter or employer could use the personal info content in the home page to gather the developers phone number.
 
 
 Further Testing
@@ -133,9 +142,5 @@ Go to the "Contact Us" page
 Try to submit the empty form and verify that an error message about the required fields appears
 Try to submit the form with an invalid email address and verify that a relevant error message appears
 Try to submit the form with all inputs valid and verify that a success message appears.
-
-
-
-DEPLOYMENT:
 
 
