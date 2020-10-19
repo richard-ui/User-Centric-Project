@@ -1,7 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
 
+/*  --- style language images  --- */
 .content-section{
     padding-top: 20px;
+}
+.alignimg { 
+  display: block;
+  margin: 0 auto;
+  padding-top: 20px;
+  
 }
 /*  --- Personal Info  --- */
 .personal-info-item {
