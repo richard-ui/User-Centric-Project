@@ -73,8 +73,8 @@ The Technologies that were used were new and updated versions of HTML and CSS.
 
 Testing
 - The W3C Markup Validator was a feature used to validate all html elements on each page.
-the W3C CSS Validator Services were used to validate was used to validate every snippet of css in the style sheet
-these were both used to prevent mistakes and would run snytax errors if there was something wrong.
+Whereas the W3C CSS Validator Services were used to validate every snippet of css in the style sheet.
+These were both used to prevent mistakes and would run snytax errors if there was something wrong.
 
 Results
 - W3C Markup Validator - [Results](https://github.com/richard-ui/project/blob/master/assets/wireframes/HomePage.pdf)
@@ -85,7 +85,7 @@ Testing User Stories from User Experience (UX) Section
 
      i. As a First Time Visitor, I want to easily understand main concept of the site and learn more about the developer.
   
-     a. Upon entering the site, users are automatically greeted with a clean and easily readable bootstrap navigation bar to go to the page of their choice. Underneath there is a an Image of the developers face with Text "About Me".
+    a. Upon entering the site, users are automatically greeted with a clean and easily readable bootstrap navigation bar to go to the page of their choice. Underneath there is a an Image of the developers face with Text "About Me".
    
      b. The main points are made immediately with the image and the 'About me' header which is nicely centered and bold.
      The user now knows the site is about the developer, and gets a nice warm feeling like there smiling back at them to encourage them to read more information on the page.
@@ -129,10 +129,10 @@ Testing User Stories from User Experience (UX) Section
 
 
 Further Testing
-- The website was tested on multiple browsers such as Microsoft Edge, Opera and FireFox, but the main one that was used chrome. This was because it was using the chrome extension at the time for gitpod
+- The website was tested on multiple browsers such as Microsoft Edge, Opera and FireFox, but the main one that was used was Chrome. This was because it was using the chrome extension at the time for gitpod
 and felt chrome was fast and reliable.
 
-- The website was viewed on iPhone SE, Android and laptop. There was also use of the developer tools as a faster way to look at the site becoming responisve suhc as using the example devices in th etools area.
+- The website was viewed on iPhone SE, Android and laptop. There was also use of the developer tools as a faster way to look at the site becoming responisve such as using the example devices in the tools area.
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 
@@ -148,22 +148,28 @@ Deployment
 6. The page will refresh to be took to the top of the page
 7. Scroll down until you get to the "Github pages" section to identify your now deployed link to your website
 
+Forking the GitHub Repository
+
+Forking the repsoitory means we are making a copy of the original version  to edit and modify any changes without affecting the original.
+
+Step-by-step guide
+
+1. Log in to GitHub and locate the Github Repository
+2.At the top of the Repository (not top of the page) just above the "Settings" button on the menu, locate the "Fork" button
+3. You should now have a copy of the original Repository in your GitHub Account
+
 Content
-All content was written by the developer.
+- All content was written by the developer.
 
 Media
-- All Images were created by the developer.
+- Images are stored in an assets folder
+- The image on the homepage was owned by the developer
+- The images on the skills page were taken from the internet, simply used by verifying there 'free of use' from 'googles advanced search tool'
 
 Acknowledgements
 - My Mentor for continuous helpful feedback.
 
 Tutor support at Code Institute for their support.
 
-
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
 
 
