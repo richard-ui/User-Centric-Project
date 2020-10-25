@@ -39,9 +39,13 @@ Features:
 
 Components
 - Feature 1 - allows users X to achieve Y, by having them fill out Z.
+- Feature 1 - Form
+
+  i. 
 
 - In addition, you may also use this section to discuss plans for additional features to be implemented
 in the future:
+- For future edits there will be a plan to using the Hover effects library, preferably on the Navigation Bar to make the headings stand out more
 
 Languages Used
 - HTML5
@@ -57,7 +61,7 @@ making the site responsive on mobile devices.
 - Hover.css was used added in the head tag. This was for implementing cool looking hover effects when hovering over links.
 This feature was not used but was a nice addition for future edits.
 3. Google Fonts:
-- Google fonts were used to import the 'Epilgue' font into the style.css file which is used on all pages throughout the project.
+- Google fonts were used to import the 'Epilogue' font into the style.css file which is used on all pages throughout the project.
 4. Font Awesome:
 - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 5. jQuery:
@@ -73,12 +77,10 @@ The Technologies that were used were new and updated versions of HTML and CSS.
 
 Testing
 - The W3C Markup Validator was a feature used to validate all html elements on each page.
-Whereas the W3C CSS Validator Services were used to validate every snippet of css in the style sheet.
-These were both used to prevent mistakes and would run snytax errors if there was something wrong.
 
-Results
-- W3C Markup Validator - [Results](https://github.com/richard-ui/project/blob/master/assets/wireframes/HomePage.pdf)
-- W3C CSS Validator - [Results](https://github.com/richard-ui/project/blob/master/assets/wireframes/Mobile.pdf)
+- Whereas the W3C CSS Validator Services were used to validate every snippet of css in the style sheet.
+
+- These were both used to prevent mistakes and would run snytax errors if there was something wrong.
 
 Testing User Stories from User Experience (UX) Section
   - First Time Visitor Goals
@@ -123,16 +125,16 @@ Testing User Stories from User Experience (UX) Section
   
   b. When entered, they will use the form on the contact page and enter place their name, email and current message into the 3 input boxes.
   
-  c. When Submit button is pressed the, validation will check for empty fields and the correct input type and alert user if valid.
+  c. When Submit button is pressed, the validation will check for empty fields and the correct input type and alert user if valid.
   
   d. Alternatively, to get in contact, the recruiter or employer could use the personal info content in the home page to gather the developers phone number.
 
 
 Further Testing
 - The website was tested on multiple browsers such as Microsoft Edge, Opera and FireFox, but the main one that was used was Chrome. This was because it was using the chrome extension at the time for gitpod
-and felt chrome was fast and reliable.
+and I felt chrome was fast and reliable.
 
-- The website was viewed on iPhone SE, Android and laptop. There was also use of the developer tools as a faster way to look at the site becoming responisve such as using the example devices in the tools area.
+- The website was viewed on iPhone SE, Android and laptop. There was also use of the developer tools as a faster way to look at the site becoming responsive such as using the example devices in the tools area.
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 
@@ -156,7 +158,7 @@ Forking the repsoitory means we are making a copy of the original version  to ed
 - Step-by-step guide
 
 1. Log in to GitHub and locate the Github Repository
-2.At the top of the Repository (not top of the page) just above the "Settings" button on the menu, locate the "Fork" button
+2. At the top of the Repository (not top of the page) just above the "Settings" button on the menu, locate the "Fork" button
 3. You should now have a copy of the original Repository in your GitHub Account
 
 Making  a Local Clone
