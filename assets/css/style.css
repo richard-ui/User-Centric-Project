@@ -1,14 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
 
-/*  --- style language images  --- */
-.content-section{
-    padding-top: 20px;
-}
-.alignimg { 
-  display: block;
-  margin: 0 auto;
-  padding-top: 20px;
-  
+body{
+    font-family: 'Epilogue', sans-serif;
 }
 /*  --- Personal Info  --- */
 .personal-info-item {
@@ -139,6 +131,17 @@ input[type="submit"]{
 }
 .col-form-label{
    font-weight: 500;
+}
+
+/*  --- style code language images  --- */
+.content-section{
+    padding-top: 20px;
+}
+.alignimg { 
+  display: block;
+  margin: 0 auto;
+  padding-top: 20px;
+  
 }
 
 /*  --- Footer --- */
