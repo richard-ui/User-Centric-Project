@@ -141,6 +141,7 @@ Deployment
 - Step-by-step guide
 
 1. Log in to GitHub
+
 2. Locate the repositories and chose one that you want to Deploy
 3. Press the "Settings"
 4. Scroll down to the GitHub pages section
@@ -152,11 +153,26 @@ Forking the GitHub Repository
 
 Forking the repsoitory means we are making a copy of the original version  to edit and modify any changes without affecting the original.
 
-Step-by-step guide
+- Step-by-step guide
 
 1. Log in to GitHub and locate the Github Repository
 2.At the top of the Repository (not top of the page) just above the "Settings" button on the menu, locate the "Fork" button
 3. You should now have a copy of the original Repository in your GitHub Account
+
+Making  a Local Clone
+
+1. Log in to GitHub and locate the GitHub Repository
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type git clone, and then paste the URL you copied in Step 3.
+
+    $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+7. Press Enter. Your local clone will be created.
+
+    $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 Content
 - All content was written by the developer.
