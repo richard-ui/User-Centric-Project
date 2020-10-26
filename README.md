@@ -1,5 +1,7 @@
 Rick's Website
 
+- Link to Project - [View](https://richard-ui.github.io/project)
+
 Brief Introduction to the Project
 
 The purpose of this website is to broadcast my skills, information and work history to potential employers and recruiters.
@@ -34,18 +36,6 @@ Wireframes
 - Home Page Wireframe - [View](https://github.com/richard-ui/project/blob/master/assets/wireframes/HomePage.pdf)
 
 - Mobile Wireframe - [View](https://github.com/richard-ui/project/blob/master/assets/wireframes/Mobile.pdf)
-
-Features:
-
-Components
-- Feature 1 - allows users X to achieve Y, by having them fill out Z.
-- Feature 1 - Form
-
-  i. 
-
-- In addition, you may also use this section to discuss plans for additional features to be implemented
-in the future:
-- For future edits there will be a plan to using the Hover effects library, preferably on the Navigation Bar to make the headings stand out more
 
 Languages Used
 - HTML5
@@ -87,51 +77,51 @@ Testing User Stories from User Experience (UX) Section
 
      i. As a First Time Visitor, I want to easily understand main concept of the site and learn more about the developer.
   
-    a. Upon entering the site, users are automatically greeted with a clean and easily readable bootstrap navigation bar to go to the page of their choice. Underneath there is a an Image of the developers face with Text "About Me".
+    - Upon entering the site, users are automatically greeted with a clean and easily readable bootstrap navigation bar to go to the page of their choice. Underneath there is a an Image of the developers face with Text "About Me".
    
-     b. The main points are made immediately with the image and the 'About me' header which is nicely centered and bold.
+    - The main points are made immediately with the image and the 'About me' header which is nicely centered and bold.
      The user now knows the site is about the developer, and gets a nice warm feeling like there smiling back at them to encourage them to read more information on the page.
 
-    ii. As a First time user I want to be able to navigate the site in an easy and effient way without any complex design.
+    ii. As a First time user I want to be able to navigate the site in an easy and efficient way without any complex design.
     
-    a. The overall design has been made to be fluid with a navigation bar with clear defined links to each page.
+    - The overall design has been made to be fluid with a navigation bar with clear defined links to each page.
     
-    b. On the Contact Page when the form has been submitted the page will refresh and take the user back to the top of the page.
+    - On the Contact Page when the form has been submitted the page will refresh and take the user back to the top of the page.
 
 - Recruiter/Employer Goals
 
   i. As a Recruiter/Employer I want to be able to use an array of socials as a way of understanding how trusted and known the individual is.
   I also want to know that I can use another form of communication with them if there are any job updates that match there skills.
   
-  a. The Social Icons are located in the footer and are consistent through the site. The user has a range of socials to interact
+  - The Social Icons are located in the footer and are consistent through the site. The user has a range of socials to interact
      with including the 5 main socials, Instagram, LinkedIn, Facebook, Twitter and Pinterest.
   
-  b. A hover effect triggers to indicate that they are about to click it. Clicking on any 5 of the icons will launch there Url.
+  - A hover effect triggers to indicate that they are about to click it. Clicking on any 5 of the icons will launch there Url.
   
-  c. This will open in a new browser so that the user can navigate back to the website easily.
+  - This will open in a new browser so that the user can navigate back to the website easily.
 
   ii. As a Recruiter/Employer I would want to be able to see the developers CV and have a way of downloading it to my computer so I can keep on file.
   
-  a. The user has 2 options providing a link to the developers cv, giving them more flexibility to make their choice.
+  - The user has 2 options providing a link to the developers cv, giving them more flexibility to make their choice.
   
-  b. An icon from the top right navbar and an icon on the footer. These icons provide links that when clicked, then the developers CV would
+  - An icon from the top right navbar and an icon on the footer. These icons provide links that when clicked, then the developers CV would
      appear in the browser.
   
-  c. This CV is made in pdf format and ready for the user to download to their computer.
+  - This CV is made in pdf format and ready for the user to download to their computer.
 
   iii. As a Recruiter/Employer I want to be able to contact the developer if I am interested in the individuals work and skill set.
   
-  a. To enter the conact page the user would need to click the 'Contact' link in the navbar
+  - To enter the conact page the user would need to click the 'Contact' link in the navbar
   
-  b. When entered, they will use the form on the contact page and enter place their name, email and current message into the 3 input boxes.
+  - When entered, they will use the form on the contact page and enter place their name, email and current message into the 3 input boxes.
   
-  c. When Submit button is pressed, the validation will check for empty fields and the correct input type and alert user if valid.
+  - When Submit button is pressed, the validation will check for empty fields and the correct input type and alert user if valid.
   
-  d. Alternatively, to get in contact, the recruiter or employer could use the personal info content in the home page to gather the developers phone number.
+  - Alternatively, to get in contact, the recruiter or employer could use the personal info content in the home page to gather the developers phone number.
 
 
 Further Testing
-- The website was tested on multiple browsers such as Microsoft Edge, Opera and FireFox, but the main one that was used was Chrome. This was because it was using the chrome extension at the time for gitpod
+- The website was tested on multiple browsers such as Microsoft Edge, Opera and FireFox, but the main one that was used was Chrome. This was because I was using the chrome extension at the time for gitpod
 and I felt chrome was fast and reliable.
 
 - The website was viewed on iPhone SE, Android and laptop. There was also use of the developer tools as a faster way to look at the site becoming responsive such as using the example devices in the tools area.
