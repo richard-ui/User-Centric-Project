@@ -2,32 +2,6 @@
 body{
     font-family: 'Epilogue', sans-serif;
 }
-/*  --- Personal Info  --- */
-.personal-info-item {
-   margin-bottom: 20px;
-   display: block;
-   clear: both;
-}
-.personal-info-item .key,
-.personal-info-item .value{
-    padding-right: 5px;
-    display: inline-block;
-}
-.personal-info-item .key p,
-.personal-info-item .value p{
-    margin: 0;
-}
-.personal-info-item .key{
-    width: 30%;
-    margin-right: 21px;
-    padding-top: 2px;
-    vertical-align: top;
-    font-weight: 500;
-}
-.personal-info-item .value{
-  position: relative;
-  width: 60%;
-}
 
 /*  --- Navigation --- */
 header{
@@ -69,6 +43,33 @@ header{
 }
 ul li a{    
     color: 	#fff;
+}
+
+/*  --- Personal Info  --- */
+.personal-info-item {
+   margin-bottom: 35px;
+   display: block;
+   clear: both;
+}
+.personal-info-item .key,
+.personal-info-item .value{
+    padding-right: 5px;
+    display: inline-block;
+}
+.personal-info-item .key p,
+.personal-info-item .value p{
+    margin: 0;
+}
+.personal-info-item .key{
+    width: 30%;
+    margin-right: 21px;
+    padding-top: 2px;
+    vertical-align: top;
+    font-weight: 500;
+}
+.personal-info-item .value{
+  position: relative;
+  width: 60%;
 }
 
 
@@ -231,17 +232,20 @@ footer {
   /* Media Query for Tablets Ipads portrait mode */ 
 @media (min-width: 768px) and (max-width: 1024px){ 
     footer {
-      /*  position: fixed; */ 
+        position: fixed; 
         bottom: 0;
         margin-top: 5px;
         height: 150px;
     }
     #footer-details {
         padding: 30px;
-        margin-top: 80px;
+        margin-top: 50px;
         
    }
     .rick{
         height:220px;
+    }
+    .personal-info-text{
+        margin-bottom: 30px;
     }
 } 
