@@ -151,6 +151,7 @@ footer {
     color: #fafafa;
     min-height: 120px;
     margin: 0;
+    bottom: 0;
 }
 
 .cv-pdf i {
@@ -204,7 +205,7 @@ footer {
 
 #footer-details {
     padding: 30px;
-    margin-top: 70px;
+    margin-top: 30px;
 }
 .general-sub{
     font-family: "Epilogue", sans-serif;
@@ -229,9 +230,18 @@ footer {
 
   /* Media Query for Tablets Ipads portrait mode */ 
 @media (min-width: 768px) and (max-width: 1024px){ 
- footer {
-  position: fixed;
-  bottom: 0;
-  margin-top: 20px;
-} 
+    footer {
+      /*  position: fixed; */ 
+        bottom: 0;
+        margin-top: 5px;
+        height: 150px;
+    }
+    #footer-details {
+        padding: 30px;
+        margin-top: 80px;
+        
+   }
+    .rick{
+        height:220px;
+    }
 } 
