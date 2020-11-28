@@ -1,14 +1,13 @@
-Rick's Website
+# Rick's Website
 
 - Link to Project - [View](https://richard-ui.github.io/project)
 
-Brief Introduction to the Project
+## Brief Introduction to the Project
 
 The purpose of this website is to broadcast my skills, information and work history to potential employers and recruiters.
 They have a need for IT and viewing this website they can gather clear and defined amount of information.
 
-UX
-User Stories
+## UX User Stories
 - As a Recruiter/Employer I want to understand the main concept of the site and learn more about the developer.
 
 - As a First time user I want to be able to navigate the site in an easy and efficient way without any complex design.
@@ -24,26 +23,26 @@ User Stories
 - As a Recruiter/Employer I want to be able to contact the developer if I am interested in the individuals work and skill set.
 
 
-Design
+## Design
 1. Colour Scheme
 - The two main colours used on the site are blue and white. Using a dark and white color together contrasted nicely with the flow of the page.
 2. Typography
 - The 'Epilogue' font is the main font used throughout the website with Sans Serif as the fallback font in case for any reason the font is not supported by the browser.
 
 
-Wireframes
+## Wireframes
 
 - Home Page Wireframe - [View](https://github.com/richard-ui/project/blob/master/assets/wireframes/HomePage.pdf)
 
 - Mobile Wireframe - [View](https://github.com/richard-ui/project/blob/master/assets/wireframes/Mobile.pdf)
 
-Languages Used
+## Languages Used
 - HTML5
   - This was the main language used and provided the website with semantic elements, giving each section a meaningful name,
   such as nav, section and footer to easily define.
 - CSS3
 
-Frameworks, Libraries & Programs Used
+## Frameworks, Libraries & Programs Used
 1. Bootstrap 4.5
 - Bootstrap is a CSS framework and used throughly throughout the website. The main target of using BootStrap within my site was to make it easier
 making the site responsive on mobile devices.
@@ -65,14 +64,14 @@ This feature was not used but was a nice addition for future edits.
 The Technologies that were used were new and updated versions of HTML and CSS.
 
 
-Testing
+## Testing
 - The W3C Markup Validator was a feature used to validate all html elements on each page.
 
 - Whereas the W3C CSS Validator Services were used to validate every snippet of css in the style sheet.
 
 - These were both used to prevent mistakes and would run snytax errors if there was something wrong.
 
-Testing User Stories from User Experience (UX) Section
+## Testing User Stories from User Experience (UX) Section
   - First Time Visitor Goals
 
      i. As a First Time Visitor, I want to easily understand main concept of the site and learn more about the developer.
@@ -120,7 +119,7 @@ Testing User Stories from User Experience (UX) Section
   - Alternatively, to get in contact, the recruiter or employer could use the personal info content in the home page to gather the developers phone number.
 
 
-Further Testing
+## Further Testing
 - The website was tested on multiple browsers such as Microsoft Edge, Opera and FireFox, but the main one that was used was Chrome. This was because I was using the chrome extension at the time for gitpod
 and I felt chrome was fast and reliable.
 
@@ -128,7 +127,7 @@ and I felt chrome was fast and reliable.
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 
-Deployment
+## Deployment
 
 - Step-by-step guide
 
@@ -141,7 +140,7 @@ Deployment
 6. The page will refresh to be took to the top of the page
 7. Scroll down until you get to the "Github pages" section to identify your now deployed link to your website
 
-Forking the GitHub Repository
+## Forking the GitHub Repository
 
 Forking the repsoitory means we are making a copy of the original version  to edit and modify any changes without affecting the original.
 
@@ -151,7 +150,7 @@ Forking the repsoitory means we are making a copy of the original version  to ed
 2. At the top of the Repository (not top of the page) just above the "Settings" button on the menu, locate the "Fork" button
 3. You should now have a copy of the original Repository in your GitHub Account
 
-Making  a Local Clone
+## Making  a Local Clone
 
 1. Log in to GitHub and locate the GitHub Repository
 2. Under the repository name, click "Clone or download".
@@ -166,18 +165,18 @@ Making  a Local Clone
 
     $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
-Content
+## Content
 - All content was written by the developer.
 
-Media
+## Media
 - Images are stored in an assets folder
 - The image on the homepage was owned by the developer
 - The images on the skills page were taken from the internet, simply used by verifying there 'free of use' from 'googles advanced search tool'
 
-Acknowledgements
+## Acknowledgements
 - My Mentor for continuous helpful feedback.
 
-Tutor support at Code Institute for their support.
+- Tutor support at Code Institute for their support.
 
 
 
