@@ -123,8 +123,20 @@ The Technologies that were used were new and updated versions of HTML and CSS.
 - The website was tested on multiple browsers such as Microsoft Edge, Opera and FireFox, but the main one that was used was Chrome. This was because I was using the chrome extension at the time for gitpod
 and I felt chrome was fast and reliable.
 
+- ### Chrome
+ 
+   ![Chrome](/assets/cross-browser/chrome.png)
+
+- ### Microsoft Edge
+ 
+   ![Edge](/assets/cross-browser/edge.png)
+
+- ### FireFox
+ 
+   ![FireFox](/assets/cross-browser/firefox.png)
+
 - The website was viewed on iPhone SE, Android and laptop. There was also use of the developer tools as a faster way to look at the site becoming responsive such as using the example devices in the tools area.
-Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+Friends and Family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 
 ## Deployment
@@ -157,13 +169,13 @@ Forking the repsoitory means we are making a copy of the original version  to ed
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4. Open Git Bash
 5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type git clone, and then paste the URL you copied in Step 3.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
 
-    $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    `$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
 
 7. Press Enter. Your local clone will be created.
 
-    $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    `$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
 
 ## Content
 - All content was written by the developer.
