@@ -222,7 +222,7 @@ footer {
 @media(min-width: 992px){ /* Takes effect when larger than 992px */
     .center-form{
         padding-top: 1.875em;
-        min-height: 240px;
+        min-height: 15em;
         margin: 0 auto;
         max-width: 50%;
  }
@@ -234,16 +234,16 @@ footer {
     footer {
         position: fixed; 
         bottom: 0;
-        margin-top: 5px;
-        height: 150px;
+        margin-top: 0.3125em;
+        height: 9.375em;
     }
     #footer-details {
-        padding: 30px;
-        margin-top: 50px;
+        padding: 1.875em;
+        margin-top: 3.125em;
         
    }
     .rick{
-        height:220px;
+        height:13.75em;
     }
     .personal-info-text{
         margin-bottom: 30px;
