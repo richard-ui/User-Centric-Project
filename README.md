@@ -184,9 +184,19 @@ Forking the repsoitory means we are making a copy of the original version  to ed
 - Images are stored in an assets folder
 - The image on the homepage was owned by the developer
 - The images on the skills page were taken from the internet, simply used by verifying there 'free of use' from 'googles advanced search tool'
+- Source used for Youtube video - 
+Traversy Media
+ (2019, September 09). The Benefits Of Becoming a Web Developer YouTube. Retrieved from 'https://www.youtube.com/embed/JguKLogoGMk'
 
 ## Acknowledgements
 - My Mentor for continuous helpful feedback.
+
+- Source for customizing navbar toggler - [View](https://www.geeksforgeeks.org/how-to-change-hamburger-toggler-color-in-bootstrap/)
+
+  - Here is snippet of code from the source used to colour toggler lines
+  - `.custom-toggler .navbar-toggler-icon {
+background-image: url(“data:image/svg+xml;charset=utf8, %3Csvg viewBox=’0 0 32 32′ xmlns=’http://www.w3.org/2000/svg’%3E%3Cpath stroke=’rgba(0, 128, 0, 0.8)’ stroke-width=’2′ stroke-linecap=’round’ stroke-miterlimit=’10’ d=’M4 8h24M4 16h24M4 24h24’/%3E%3C/svg%3E”);
+}`
 
 - Tutor support at Code Institute for their support.
 

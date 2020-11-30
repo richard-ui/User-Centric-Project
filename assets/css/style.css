@@ -62,7 +62,6 @@ ul li a{
 .personal-info-item .key{
     width: 30%;
     margin-right: 0.3125em;
-    padding-top: 5px;
     vertical-align: top;
     font-weight: 500;
 }
@@ -259,12 +258,11 @@ footer {
   }
 
   .personal-info-item .key{
-    width: 20%;
-    margin-right: 5px;
+    width: 25%;
+    margin-right: 0.3125em;
 }
-    .personal-info-item .value{
+.personal-info-item .value{
     width: 70%;
-    
 }
 
 }
