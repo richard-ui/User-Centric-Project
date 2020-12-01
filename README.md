@@ -138,6 +138,12 @@ and I felt chrome was fast and reliable.
 - The website was viewed on iPhone SE, Android and laptop. There was also use of the developer tools as a faster way to look at the site becoming responsive such as using the example devices in the tools area.
 Friends and Family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
+- The Responsinator tool was a feature used to view the deployed site and look to see how each device would display it. Device screens such as Android, iPhone and iPads were used to view on. In doing so
+they were viewed in a landscape and portrait perspective.
+
+### Bugs
+- There was an issue with the footer element in all browsers. The footer would not stick to the bottom of the screen and therefore leave white space between itself and the bottom of the screen. To fix this problem the footer
+was fixed to the bottom using bootstrap tools and css styling.
 
 ## Deployment
 
