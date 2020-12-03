@@ -239,13 +239,19 @@ footer {
     #footer-details {
         padding: 1.875em;
         margin-top: 3.125em;
-        
    }
     .rick{
-        height: 13.75em;
+        height: 12.5em;
+        margin-top: 3.75em;
     }
     .personal-info-text{
-        margin-bottom: 30px;
+        margin-bottom: 1.5em;
+    }
+    .personal-info-item .value{
+         margin-left: 1.25em;
+    }
+    .personal-info-item .key{
+     width: 60%;
     }
 }
 
