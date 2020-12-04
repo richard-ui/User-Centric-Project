@@ -138,7 +138,7 @@ and I felt chrome was fast and reliable.
 - The website was viewed on iPhone SE, Android and laptop. There was also use of the developer tools as a faster way to look at the site becoming responsive such as using the example devices in the tools area.
 Friends and Family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-- ### Responsivness
+- ### Responsiveness
  
    ![Responsinator](/assets/cross-browser/responsinator.png)
 - The Responsinator tool was a feature used to view the deployed site and look to see how each device would display it. Device screens such as Android, iPhone and iPads were used to view on. In doing so
