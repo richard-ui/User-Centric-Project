@@ -283,6 +283,7 @@ footer {
         margin: 0 auto;
         max-width: 50%;
      }
+
      
 } 
           
@@ -303,6 +304,9 @@ footer {
         min-height: 15em;
         margin: 0 auto;
         max-width: 50%;
+     }
+     .content-section{
+         margin-top: 100px;
      }
      
  } 
