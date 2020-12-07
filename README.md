@@ -59,7 +59,9 @@ This feature was not used but was a nice addition for future edits.
 - Git was used for version control by utilizing the Gitpod terminal and initialising commands.
 7. GitHub:
 - GitHub is used to store the projects code after being commited from Gitpod.
-8. Balsamiq:
+8. Gitpod
+- Gitpod is a Program that contained the project workspace and was used to develop and view the html/css inside it.
+9. Balsamiq:
 - Balsamiq was used to create the wireframes during the design process.
 The Technologies that were used were new and updated versions of HTML and CSS.
 
