@@ -2,6 +2,8 @@
 
 - Link to Project - [View](https://richard-ui.github.io/project)
 
+![All_Devices](/assets/cross-browser/alldevices.png)
+
 ## Brief Introduction to the Project
 
 The purpose of this website is to broadcast my skills, information and work history to potential employers and recruiters.
