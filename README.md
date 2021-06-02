@@ -1,6 +1,6 @@
 # Rick's Website
 
-- Link to Project - [View](https://richard-ui.github.io/project)
+- Link to Project - [View](https://richard-ui.github.io/User-Centric-Project/)
 
 ![All_Devices](/assets/cross-browser/alldevices.png)
 
