@@ -288,10 +288,8 @@ footer {
 @media (min-width: 1281px) { 
     #footer-details {
         padding: 1.875em;
-        margin-top: 3.125em;
-         position: fixed; 
-        bottom: 0;
-        margin-top: 0.3125em;
+        margin-top: 3rem; 
+        bottom: 0;     
    }
     .center-form{
         padding-top: 1.875em;
