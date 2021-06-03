@@ -149,7 +149,7 @@ input[type="submit"]{
 footer {
     background-color: #4267b2;
     color: #fafafa;
-    min-height: 7.5em;
+    height: 120px;
     margin: 0;
     bottom: 0;
     margin-top: 3rem; 
@@ -245,9 +245,6 @@ footer {
     #footer-details {
         padding: 1.875em;
         margin-top: 3.125em;
-        position: fixed; 
-        bottom: 0;
-        margin-top: 0.3125em;
         height: 9.375em;
    }
     .rick{
@@ -271,7 +268,8 @@ footer {
     #footer-details {
         padding: 1.875em;
         margin-top: 3.125em;
-        
+        position: fixed; 
+        bottom: 0;
    }
     .center-form{
         padding-top: 1.875em;
@@ -289,7 +287,9 @@ footer {
     #footer-details {
         padding: 1.875em;
         margin-top: 3rem; 
-        
+        position: fixed; 
+        bottom: 0;
+        height: 200px;
    }
     .center-form{
         padding-top: 1.875em;
