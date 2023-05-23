@@ -1,5 +1,5 @@
 body{
-    font-family: 'Epilogue', sans-serif;
+    font-family: 'Helvetica', sans-serif;
 }
 
 /*  --- Navigation --- */
@@ -16,7 +16,7 @@ header{
 .custom-toggler .navbar-toggler-icon { 
     background-image: url( 
         "data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.8)' stroke-width='4' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); 
-        } 
+} 
 
 .navbar-brand{
     color: #fff;
@@ -157,11 +157,11 @@ footer {
 }
 
 .cv-pdf i {
-     width: 2em;
+    width: 2em;
     height: 2em;
     padding: 0.75em 0;
     border-radius: 50%;
-    font-size: 1.125em;
+    font-size: 4em;
     line-height: 0.5em;
     text-align: center;
     color: #fafafa;
@@ -178,57 +178,18 @@ footer {
     color: #4267b2; 
 }
 
-.social-links {
-    padding-bottom: 0.9375em;
+.fa:hover {
+    opacity: 0.7;
 }
-
-.social-links li a i {
-    width: 2.1875em;
-    margin-right: 2.1875em;
-    height: 2.1875em;
-    padding: 0.75em 0;
-    border-radius: 50%;
-    font-size: 1.125em;
-    line-height: 0.625em;
-    text-align: center;
-    color: #fafafa;
-    background: #4267b2;
-    
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.social-links li a i:hover {
-    background: #fff;
-    color:#4267b2;
-}
-
-#footer-details {
-    padding: 1.875em;
-    margin-top: 3.5625em;
-}
-.general-sub{
-    font-family: "Epilogue", sans-serif;
-    color: #fff;
-}
-.inline-block{
-    display: inline-block;
-}
-
-
 
 /* Media Queries */
 
  /* # Mobile */
 
 @media only screen and (max-width: 768px) {
- 
   body {
     font-size: 1.125em;
   }
-
   .personal-info-item .key{
       width: 25%;
       margin-right: 0.3125em;
@@ -236,19 +197,11 @@ footer {
   .personal-info-item .value{
       width: 70%;
    }
-
 }
 
   /* # Tablets/Ipads portrait mode */
 
 @media (min-width: 768px) and (max-width: 1024px){ 
-    #footer-details {
-        padding: 1.875em;
-        margin-top: 3.125em;
-        height: 9.375em;
-        position: fixed; 
-        bottom: 0;
-   }
     .rick{
         height: 12.5em;
         margin-top: 3.75em;
@@ -267,32 +220,17 @@ footer {
  /* # Laptops and Desktops */
 
 @media (min-width: 1025px){ 
-    #footer-details {
-        padding: 1.875em;
-        margin-top: 3.125em;
-        position: fixed; 
-        bottom: 0;
-   }
     .center-form{
         padding-top: 1.875em;
         min-height: 15em;
         margin: 0 auto;
         max-width: 50%;
-     }
-
-     
+     }  
 } 
           
 /* Media Query for Large screens */
 
 @media only screen  and (min-width : 1400px) {
-    #footer-details {
-        padding: 1.875em;
-        margin-top: 3rem; 
-        position: fixed; 
-        bottom: 0;
-        height: 200px;
-   }
     .center-form{
         padding-top: 1.875em;
         min-height: 15em;
@@ -301,9 +239,8 @@ footer {
      }
      .content-section{
          margin-top: 2.1875em;
-     }
-     
- } 
+     }  
+} 
 
 
 
